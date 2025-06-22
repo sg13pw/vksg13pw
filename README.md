@@ -22,7 +22,7 @@ couple make couples
 
  
 /* takes long list as facebook (classification of action needed to sublimate an cookie value linked to profile) */
-/* as second the dymanic ip is needed to forward connections from one to collect the mind code logic as far go */
+/* as second the dymanic ip is needed to forward connections from one to collect the mind code logic  */
 
  
 admin@sg13.pw
