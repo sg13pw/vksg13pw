@@ -12,17 +12,17 @@ If we brutally copy into couple files as example index.php and redirect it to an
 
  
 (copy&paste)
-
- 
-<form id="vk" method="post" action="vk.com/sg13pw"></form> берем обмен - + authorized_user_cookie_set value="profile"
- <input type="hidden" name="hidden" value="vk.com/sg13pw"> отдаем обмен - + authorized_user_cookie_set value="profile"
+берем обмен - + authorized_user_cookie_set value="profile" отдаем обмен - + authorized_user_cookie_set value="profile"
 
  
 couple make couples
 
  
-/* takes long list as facebook (classification of action needed to sublimate an cookie value linked to profile) */
-/* as second the dymanic ip is needed to forward connections from one to collect the mind code logic  */
+/* takes long list as facebook (classification of action needed to sublimate an cookie value linked to profile) / / as second the dymanic ip is needed to forward connections from one to collect the mind code logic */
 
  
 admin@sg13.pw
+
+ 
+did everyone knowledge of what kind of library c++ is used?
+- suck a hand-landing over step that have one of interpreter is corrupt for that and aren't linked of c++ to often this shit again and again
