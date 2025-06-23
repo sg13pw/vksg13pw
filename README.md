@@ -25,4 +25,4 @@ admin@sg13.pw
 
  
 did everyone knowledge of what kind of library c++ is used?
-- suck a hand-landing over step that have one of interpreter is corrupt for that and aren't linked of c++ to often this shit again and again
+- suck a hand-landing over step that have one of interpreter is corrupt for that and aren't linked of c++ to often this shit again and again (library bug)
